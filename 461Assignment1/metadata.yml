@@ -1,0 +1,12 @@
+---
+:id: 48167853
+:submitters:
+- :name: Baheem D Ferrell
+  :email: bferrell514@uri.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-08 16:36:44.531708000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-08 09:36:44.531708000 Z
+:status: processed
+:score: 74.0
